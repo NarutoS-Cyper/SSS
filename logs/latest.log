@@ -1,0 +1,451 @@
+[12:12:43] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[12:12:45] [ServerMain/INFO]: Loaded 1373 recipes
+[12:12:45] [Server thread/INFO]: Starting minecraft server version 1.21.5
+[12:12:45] [Server thread/INFO]: Loading properties
+[12:12:45] [Server thread/INFO]: This server is running CraftBukkit version 4477-Spigot-e339edc-ba251cc (MC: 1.21.5) (Implementing API version 1.21.5-R0.1-SNAPSHOT)
+[12:12:46] [Server thread/INFO]: *** This version of Spigot contains changes to some enums. If you notice that plugins no longer work after updating, please report this to the developers of those plugins first. ***
+[12:12:46] [Server thread/INFO]: *** If you cannot update those plugins, you can try setting `settings.compatibility.enum-compatibility-mode` to `true` in `bukkit.yml`. ***
+[12:12:46] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[12:12:46] [Server thread/INFO]: Using 4 threads for Netty based IO
+[12:12:46] [Server thread/INFO]: Debug logging is disabled
+[12:12:46] [Server thread/INFO]: Default game type: SURVIVAL
+[12:12:46] [Server thread/INFO]: Generating keypair
+[12:12:47] [Server thread/INFO]: Starting Minecraft server on *:25565
+[12:12:47] [Server thread/INFO]: Using epoll channel type
+[12:12:47] [Server thread/INFO]: [SimpleTpa] Loading SimpleTpa v7.6
+[12:12:47] [Server thread/INFO]: [SetHome] Loading SetHome v6.2.3
+[12:12:47] [Server thread/INFO]: [ViaVersion] Loading ViaVersion v5.3.1
+[12:12:47] [Server thread/INFO]: [ViaVersion] ViaVersion 5.3.1 is now loaded. Registering protocol transformers and injecting...
+[12:12:48] [Via-Mappingloader-0/INFO]: [ViaVersion] Loading block connection mappings ...
+[12:12:48] [Via-Mappingloader-0/INFO]: [ViaVersion] Using FastUtil Long2ObjectOpenHashMap for block connections
+[12:12:49] [Server thread/INFO]: [ViaBackwards] Loading translations...
+[12:12:49] [Server thread/INFO]: [ViaBackwards] Registering protocols...
+[12:12:49] [Server thread/INFO]: [Chunky] Loading Chunky v1.4.28
+[12:12:49] [Server thread/INFO]: [TabListPing] Loading TabListPing v2.00
+[12:12:49] [Server thread/INFO]: [floodgate] Loading floodgate v2.2.4-SNAPSHOT (b116-0e3163c)
+[12:12:50] [Server thread/WARN]: [floodgate] en_ is not a supported Floodgate language.
+[12:12:50] [Server thread/INFO]: [floodgate] Took 668ms to boot Floodgate
+[12:12:50] [Server thread/INFO]: [LightOptimizer] Loading LightOptimizer v4.0.2-BETA
+[12:12:50] [Server thread/INFO]: [ViaBackwards] Loading ViaBackwards v5.3.1
+[12:12:50] [Server thread/INFO]: [SimpleRTP] Loading SimpleRTP v5.4
+[12:12:50] [Server thread/INFO]: [Geyser-Spigot] Loading Geyser-Spigot v2.7.0-SNAPSHOT
+[12:12:51] [Server thread/INFO]: [Geyser-Spigot] Loading extensions...
+[12:12:51] [Server thread/INFO]: [Geyser-Spigot] Loaded 0 extension(s)
+[12:12:51] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[12:12:51] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[12:12:51] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[12:12:51] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[12:12:51] [Server thread/INFO]: Preparing level "world"
+[12:12:51] [Server thread/INFO]: -------- World Settings For [world] --------
+[12:12:51] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[12:12:51] [Server thread/INFO]: Cane Growth Modifier: 100%
+[12:12:51] [Server thread/INFO]: Melon Growth Modifier: 100%
+[12:12:51] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[12:12:51] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[12:12:51] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[12:12:51] [Server thread/INFO]: Beetroot Growth Modifier: 100%
+[12:12:51] [Server thread/INFO]: Carrot Growth Modifier: 100%
+[12:12:51] [Server thread/INFO]: Potato Growth Modifier: 100%
+[12:12:51] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[12:12:51] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[12:12:51] [Server thread/INFO]: Vine Growth Modifier: 100%
+[12:12:51] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[12:12:51] [Server thread/INFO]: Bamboo Growth Modifier: 100%
+[12:12:51] [Server thread/INFO]: SweetBerry Growth Modifier: 100%
+[12:12:51] [Server thread/INFO]: Kelp Growth Modifier: 100%
+[12:12:51] [Server thread/INFO]: TwistingVines Growth Modifier: 100%
+[12:12:51] [Server thread/INFO]: WeepingVines Growth Modifier: 100%
+[12:12:51] [Server thread/INFO]: CaveVines Growth Modifier: 100%
+[12:12:51] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Ra 48 / Mi 16 / Tiv true / Isa false
+[12:12:51] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Di 128 / Other 64
+[12:12:51] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1 Hopper Can Load Chunks: false
+[12:12:51] [Server thread/INFO]: Experience Merge Radius: 3.0
+[12:12:51] [Server thread/INFO]: Mob Spawn Range: 6
+[12:12:51] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 End City: 10387313 Slime: 987234911 Nether: 30084232 Mansion: 10387319 Fossil: 14357921 Portal: 34222645
+[12:12:51] [Server thread/INFO]: Max TNT Explosions: 100
+[12:12:51] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[12:12:51] [Server thread/INFO]: View Distance: 10
+[12:12:51] [Server thread/INFO]: Simulation Distance: 10
+[12:12:51] [Server thread/INFO]: Item Despawn Rate: 6000
+[12:12:51] [Server thread/INFO]: Item Merge Radius: 2.5
+[12:12:51] [Server thread/INFO]: Arrow Despawn Rate: 1200 Trident Respawn Rate:1200
+[12:12:51] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[12:12:51] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[12:12:51] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[12:12:51] [Server thread/INFO]: -------- World Settings For [world_nether] --------
+[12:12:51] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[12:12:51] [Server thread/INFO]: Cane Growth Modifier: 100%
+[12:12:51] [Server thread/INFO]: Melon Growth Modifier: 100%
+[12:12:51] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[12:12:51] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[12:12:51] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[12:12:51] [Server thread/INFO]: Beetroot Growth Modifier: 100%
+[12:12:51] [Server thread/INFO]: Carrot Growth Modifier: 100%
+[12:12:51] [Server thread/INFO]: Potato Growth Modifier: 100%
+[12:12:51] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[12:12:51] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[12:12:51] [Server thread/INFO]: Vine Growth Modifier: 100%
+[12:12:51] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[12:12:51] [Server thread/INFO]: Bamboo Growth Modifier: 100%
+[12:12:51] [Server thread/INFO]: SweetBerry Growth Modifier: 100%
+[12:12:51] [Server thread/INFO]: Kelp Growth Modifier: 100%
+[12:12:51] [Server thread/INFO]: TwistingVines Growth Modifier: 100%
+[12:12:51] [Server thread/INFO]: WeepingVines Growth Modifier: 100%
+[12:12:51] [Server thread/INFO]: CaveVines Growth Modifier: 100%
+[12:12:51] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Ra 48 / Mi 16 / Tiv true / Isa false
+[12:12:51] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Di 128 / Other 64
+[12:12:51] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1 Hopper Can Load Chunks: false
+[12:12:51] [Server thread/INFO]: Experience Merge Radius: 3.0
+[12:12:51] [Server thread/INFO]: Mob Spawn Range: 6
+[12:12:51] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 End City: 10387313 Slime: 987234911 Nether: 30084232 Mansion: 10387319 Fossil: 14357921 Portal: 34222645
+[12:12:51] [Server thread/INFO]: Max TNT Explosions: 100
+[12:12:51] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[12:12:51] [Server thread/INFO]: View Distance: 10
+[12:12:51] [Server thread/INFO]: Simulation Distance: 10
+[12:12:51] [Server thread/INFO]: Item Despawn Rate: 6000
+[12:12:51] [Server thread/INFO]: Item Merge Radius: 2.5
+[12:12:51] [Server thread/INFO]: Arrow Despawn Rate: 1200 Trident Respawn Rate:1200
+[12:12:51] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[12:12:51] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[12:12:51] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[12:12:51] [Server thread/INFO]: -------- World Settings For [world_the_end] --------
+[12:12:51] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[12:12:51] [Server thread/INFO]: Cane Growth Modifier: 100%
+[12:12:51] [Server thread/INFO]: Melon Growth Modifier: 100%
+[12:12:51] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[12:12:51] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[12:12:51] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[12:12:51] [Server thread/INFO]: Beetroot Growth Modifier: 100%
+[12:12:51] [Server thread/INFO]: Carrot Growth Modifier: 100%
+[12:12:51] [Server thread/INFO]: Potato Growth Modifier: 100%
+[12:12:51] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[12:12:51] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[12:12:51] [Server thread/INFO]: Vine Growth Modifier: 100%
+[12:12:51] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[12:12:51] [Server thread/INFO]: Bamboo Growth Modifier: 100%
+[12:12:51] [Server thread/INFO]: SweetBerry Growth Modifier: 100%
+[12:12:51] [Server thread/INFO]: Kelp Growth Modifier: 100%
+[12:12:51] [Server thread/INFO]: TwistingVines Growth Modifier: 100%
+[12:12:51] [Server thread/INFO]: WeepingVines Growth Modifier: 100%
+[12:12:51] [Server thread/INFO]: CaveVines Growth Modifier: 100%
+[12:12:51] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Ra 48 / Mi 16 / Tiv true / Isa false
+[12:12:51] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Di 128 / Other 64
+[12:12:51] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1 Hopper Can Load Chunks: false
+[12:12:51] [Server thread/INFO]: Experience Merge Radius: 3.0
+[12:12:51] [Server thread/INFO]: Mob Spawn Range: 6
+[12:12:51] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 End City: 10387313 Slime: 987234911 Nether: 30084232 Mansion: 10387319 Fossil: 14357921 Portal: 34222645
+[12:12:51] [Server thread/INFO]: Max TNT Explosions: 100
+[12:12:51] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[12:12:51] [Server thread/INFO]: View Distance: 10
+[12:12:51] [Server thread/INFO]: Simulation Distance: 10
+[12:12:51] [Server thread/INFO]: Item Despawn Rate: 6000
+[12:12:51] [Server thread/INFO]: Item Merge Radius: 2.5
+[12:12:51] [Server thread/INFO]: Arrow Despawn Rate: 1200 Trident Respawn Rate:1200
+[12:12:51] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[12:12:51] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[12:12:51] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[12:12:51] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[12:12:57] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[12:12:57] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[12:12:57] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[12:12:57] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[12:12:57] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[12:12:57] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[12:12:57] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[12:12:57] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[12:12:57] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[12:12:57] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[12:12:57] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[12:12:57] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[12:12:57] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[12:12:58] [Server thread/INFO]: Time elapsed: 6530 ms
+[12:12:58] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[12:12:58] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[12:12:58] [Server thread/INFO]: Time elapsed: 264 ms
+[12:12:58] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[12:12:58] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[12:12:58] [Server thread/INFO]: Time elapsed: 186 ms
+[12:12:58] [Server thread/INFO]: [SimpleTpa] Enabling SimpleTpa v7.6
+[12:12:58] [Server thread/INFO]: [0;33;1m[21m[SimpleTpa] If you need support contact me at https://discord.gg/SZUkza9[m
+[12:12:58] [Server thread/INFO]: [0;33;1m[21m[SimpleTpa] Simple Tpa has been enabled on version 7.6[m
+[12:12:58] [Server thread/INFO]: Enabled metrics. You may opt-out by changing plugins/bStats/config.yml
+[12:12:58] [Server thread/INFO]: [SetHome] Enabling SetHome v6.2.3
+[12:12:58] [Server thread/INFO]: [ViaVersion] Enabling ViaVersion v5.3.1
+[12:12:58] [Server thread/INFO]: [ViaVersion] ViaVersion detected server version: 1.21.5 (770)
+[12:12:59] [Server thread/INFO]: [Chunky] Enabling Chunky v1.4.28
+[12:12:59] [Server thread/INFO]: [TabListPing] Enabling TabListPing v2.00
+[12:12:59] [Server thread/INFO]: [TabListPing] Detected 1.21.5, using net.minecraft.network.protocol.common.ClientboundKeepAlivePacket & net.minecraft.network.protocol.common.ServerboundKeepAlivePacket
+[12:12:59] [Server thread/INFO]: [TabListPing] Metrics enabled if allowed by plugins/bStats/config.yml
+[12:12:59] [Server thread/INFO]: [floodgate] Enabling floodgate v2.2.4-SNAPSHOT (b116-0e3163c)
+[12:12:59] [Server thread/INFO]: [LightOptimizer] Enabling LightOptimizer v4.0.2-BETA
+[12:12:59] [Server thread/ERROR]: Error occurred while enabling LightOptimizer v4.0.2-BETA (Is it up to date?)
+java.lang.NoClassDefFoundError: com/comphenix/protocol/events/PacketListener
+	at dev.atrox.lightoptimizer.LightOptimizer.initializeComponents(LightOptimizer.java:279) ~[?:?]
+	at dev.atrox.lightoptimizer.LightOptimizer.onEnable(LightOptimizer.java:68) ~[?:?]
+	at org.bukkit.plugin.java.JavaPlugin.setEnabled(JavaPlugin.java:267) ~[spigot-api-1.21.5-R0.1-SNAPSHOT.jar:?]
+	at org.bukkit.plugin.java.JavaPluginLoader.enablePlugin(JavaPluginLoader.java:342) ~[spigot-api-1.21.5-R0.1-SNAPSHOT.jar:?]
+	at org.bukkit.plugin.SimplePluginManager.enablePlugin(SimplePluginManager.java:492) ~[spigot-api-1.21.5-R0.1-SNAPSHOT.jar:?]
+	at org.bukkit.craftbukkit.v1_21_R4.CraftServer.enablePlugin(CraftServer.java:578) ~[spigot-1.21.5.jar:4477-Spigot-e339edc-ba251cc]
+	at org.bukkit.craftbukkit.v1_21_R4.CraftServer.enablePlugins(CraftServer.java:492) ~[spigot-1.21.5.jar:4477-Spigot-e339edc-ba251cc]
+	at net.minecraft.server.MinecraftServer.loadWorld0(MinecraftServer.java:652) ~[spigot-1.21.5.jar:4477-Spigot-e339edc-ba251cc]
+	at net.minecraft.server.MinecraftServer.loadLevel(MinecraftServer.java:437) ~[spigot-1.21.5.jar:4477-Spigot-e339edc-ba251cc]
+	at net.minecraft.server.dedicated.DedicatedServer.e(DedicatedServer.java:268) ~[spigot-1.21.5.jar:4477-Spigot-e339edc-ba251cc]
+	at net.minecraft.server.MinecraftServer.y(MinecraftServer.java:1007) ~[spigot-1.21.5.jar:4477-Spigot-e339edc-ba251cc]
+	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:325) ~[spigot-1.21.5.jar:4477-Spigot-e339edc-ba251cc]
+	at java.base/java.lang.Thread.run(Thread.java:1583) [?:?]
+Caused by: java.lang.ClassNotFoundException: com.comphenix.protocol.events.PacketListener
+	at org.bukkit.plugin.java.PluginClassLoader.loadClass0(PluginClassLoader.java:160) ~[spigot-api-1.21.5-R0.1-SNAPSHOT.jar:?]
+	at org.bukkit.plugin.java.PluginClassLoader.loadClass(PluginClassLoader.java:112) ~[spigot-api-1.21.5-R0.1-SNAPSHOT.jar:?]
+	at java.base/java.lang.ClassLoader.loadClass(ClassLoader.java:526) ~[?:?]
+	... 13 more
+[12:12:59] [Server thread/INFO]: [ViaBackwards] Enabling ViaBackwards v5.3.1
+[12:12:59] [Server thread/INFO]: [SimpleRTP] Enabling SimpleRTP v5.4
+[12:12:59] [Server thread/INFO]: [Geyser-Spigot] Enabling Geyser-Spigot v2.7.0-SNAPSHOT
+[12:12:59] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[12:12:59] [Server thread/INFO]: [Geyser-Spigot] ******************************************
+[12:12:59] [Server thread/INFO]: [Geyser-Spigot] 
+[12:12:59] [Server thread/INFO]: [Geyser-Spigot] Loading Geyser version 2.7.0-b797 (git-master-d7f77e8)
+[12:12:59] [Server thread/INFO]: [Geyser-Spigot] 
+[12:12:59] [Server thread/INFO]: [Geyser-Spigot] ******************************************
+[12:13:04] [epollEventLoopGroup-3-1/INFO]: [Geyser-Spigot] Started Geyser on UDP port 19132
+[12:13:04] [Server thread/INFO]: [Geyser-Spigot] Done (4.923s)! Run /geyser help for help!
+[12:13:04] [Server thread/INFO]: Done (13.652s)! For help, type "help"
+[12:13:04] [Craft Scheduler Thread - 3/INFO]: [ViaVersion] Finished mapping loading, shutting down loader executor.
+[12:13:05] [Server thread/WARN]: [ViaVersion] There is a newer plugin version available: 5.3.2, you're on: 5.3.1
+[12:27:23] [User Authenticator #1/INFO]: UUID of player irisbbi is 794a011b-f586-399c-b719-fe0c1cd738bd
+[12:27:24] [Server thread/INFO]: irisbbi joined the game
+[12:27:24] [Server thread/INFO]: irisbbi[/127.213.61.254:48823] logged in with entity id 90 at ([world]-3016.3433023053017, 67.0, 4731.858667000701)
+[12:36:59] [User Authenticator #2/INFO]: UUID of player MGFiree is 1fac2248-0167-3240-a01d-e59180122beb
+[12:37:00] [Server thread/INFO]: MGFiree joined the game
+[12:37:00] [Server thread/INFO]: MGFiree[/127.152.215.75:48693] logged in with entity id 1025 at ([world]-2517.947328317302, 4.0, -4386.3637980596)
+[12:39:15] [Server thread/INFO]: MGFiree issued server command: /randomtp
+[12:52:20] [Server thread/INFO]: irisbbi issued server command: /home
+[12:56:00] [Server thread/INFO]: irisbbi issued server command: /home
+[12:56:23] [User Authenticator #3/INFO]: UUID of player MGDust is af20aaee-d187-348b-a576-a99ab6674b99
+[12:56:25] [Server thread/INFO]: MGDust joined the game
+[12:56:25] [Server thread/INFO]: MGDust[/127.108.190.58:51635] logged in with entity id 8566 at ([world]-3048.6335242221603, 79.0, 4697.298964283182)
+[12:57:35] [Server thread/INFO]: MGFiree issued server command: /tpa MGDust
+[12:57:37] [Server thread/INFO]: MGDust issued server command: /tpaccept
+[12:58:22] [User Authenticator #4/INFO]: UUID of player myonhein is f8d0b11d-1827-3741-b411-6f8661484bdc
+[12:58:24] [Server thread/INFO]: myonhein joined the game
+[12:58:24] [Server thread/INFO]: myonhein[/127.108.190.58:52893] logged in with entity id 9449 at ([world]-3508.48130293763, 64.0, 4786.9869285182995)
+[13:00:31] [Server thread/INFO]: MGFiree issued server command: /home
+[13:01:31] [Server thread/INFO]: MGFiree issued server command: /home
+[13:06:17] [Server thread/INFO]: MGDust issued server command: /gamemode creative
+[13:06:17] [Server thread/INFO]: [MGDust: Set own game mode to Creative Mode]
+[13:06:28] [Server thread/INFO]: MGDust issued server command: /gamemode survival
+[13:06:28] [Server thread/INFO]: [MGDust: Set own game mode to Survival Mode]
+[13:07:14] [Server thread/INFO]: MGDust issued server command: /gamemode creative
+[13:07:14] [Server thread/INFO]: [MGDust: Set own game mode to Creative Mode]
+[13:07:20] [Server thread/INFO]: MGDust issued server command: /gamemode survival
+[13:07:20] [Server thread/INFO]: [MGDust: Set own game mode to Survival Mode]
+[13:07:54] [Server thread/INFO]: MGFiree fell out of the world
+[13:08:54] [Server thread/INFO]: MGDust issued server command: /gamemode spectator
+[13:08:54] [Server thread/INFO]: [MGDust: Set own game mode to Spectator Mode]
+[13:09:05] [Server thread/INFO]: MGDust issued server command: /tp irisbbi
+[13:09:05] [Server thread/INFO]: [MGDust: Teleported MGDust to irisbbi]
+[13:09:18] [Server thread/INFO]: MGDust issued server command: /gamemode survival
+[13:09:18] [Server thread/INFO]: [MGDust: Set own game mode to Survival Mode]
+[13:10:54] [Server thread/INFO]: MGFiree issued server command: /tpa MGDust
+[13:11:00] [Server thread/INFO]: MGDust issued server command: /tpaccept
+[13:12:41] [Server thread/INFO]: MGFiree issued server command: /home
+[13:17:04] [Server thread/INFO]: MGFiree issued server command: /tpa MGDust
+[13:17:10] [Server thread/INFO]: MGDust issued server command: /tpaccept
+[13:17:55] [Server thread/INFO]: MGFiree issued server command: /home
+[13:18:19] [Async Chat Thread - #0/INFO]: [Not Secure] <irisbbi> ngu di mn oi TT
+[13:18:33] [Async Chat Thread - #1/INFO]: [Not Secure] <myonhein> dang k o nha
+[13:18:44] [Async Chat Thread - #0/INFO]: [Not Secure] <irisbbi> chị cũng thế
+[13:18:49] [Async Chat Thread - #1/INFO]: [Not Secure] <irisbbi> đang ở giữa đường
+[13:18:58] [Async Chat Thread - #0/INFO]: [Not Secure] <myonhein> nma k co giuong=))
+[13:19:39] [Server thread/INFO]: MGDust issued server command: /tps
+[13:19:57] [Server thread/INFO]: irisbbi issued server command: /tell MGDust em đang ở chỗ pale oak nè
+[13:20:02] [Server thread/INFO]: MGFiree issued server command: /tpa MGDust
+[13:20:05] [Server thread/INFO]: MGDust issued server command: /tpaccept
+[13:20:13] [Server thread/INFO]: irisbbi issued server command: /tell MGDust nma tối quá đ dám ra
+[13:20:15] [Async Chat Thread - #2/INFO]: [Not Secure] <MGFiree> ngoc oi
+[13:20:18] [Server thread/INFO]: MGDust issued server command: /tell irisbbi tp a
+[13:20:19] [Async Chat Thread - #0/INFO]: [Not Secure] <myonhein> ha
+[13:20:21] [Server thread/INFO]: MGDust issued server command: /tpa irisbbi
+[13:20:27] [Server thread/INFO]: irisbbi issued server command: /tpaccept
+[13:20:28] [Async Chat Thread - #2/INFO]: [Not Secure] <MGFiree> có len ko em
+[13:20:32] [Async Chat Thread - #0/INFO]: [Not Secure] <myonhein> cs
+[13:20:33] [Server thread/INFO]: MGDust issued server command: /tpa irisbbi
+[13:20:39] [Server thread/INFO]: irisbbi issued server command: /tpaccept
+[13:20:40] [Server thread/INFO]: MGFiree issued server command: /tpa myonhein
+[13:20:46] [Server thread/INFO]: myonhein issued server command: /tpaccept
+[13:21:02] [Server thread/INFO]: irisbbi issued server command: /tell MGDust trên núi á
+[13:21:03] [Server thread/INFO]: MGFiree issued server command: /home
+[13:21:16] [Server thread/INFO]: MGFiree issued server command: /home
+[13:21:38] [Server thread/INFO]: MGFiree issued server command: /home
+[13:22:52] [Server thread/INFO]: MGDust issued server command: /tell irisbbi dau a
+[13:23:19] [Server thread/INFO]: irisbbi issued server command: /tell MGDust anh dau roi:))
+[13:25:13] [Server thread/INFO]: irisbbi issued server command: /tell MGDust saw it?
+[13:26:09] [Server thread/INFO]: MGDust issued server command: /tell irisbbi roi roi
+[13:26:59] [Server thread/INFO]: MGDust issued server command: /home
+[13:27:10] [Server thread/INFO]: MGDust lost connection: Disconnected
+[13:27:10] [Server thread/INFO]: MGDust left the game
+[13:29:32] [Server thread/INFO]: irisbbi issued server command: /home
+[13:39:46] [User Authenticator #5/INFO]: UUID of player andz100 is ee3f4fa7-6798-388b-9f47-64dfd31a1fe7
+[13:39:47] [Server thread/INFO]: com.mojang.authlib.GameProfile@2eaee8a1[id=ee3f4fa7-6798-388b-9f47-64dfd31a1fe7,name=andz100,properties={}] lost connection: Disconnected
+[13:46:40] [Async Chat Thread - #6/INFO]: [Not Secure] <myonhein> c iris co o nha k
+[13:46:52] [Async Chat Thread - #6/INFO]: [Not Secure] <irisbbi> co bbi oi
+[13:46:56] [Async Chat Thread - #5/INFO]: [Not Secure] <myonhein> tp e vs
+[13:47:07] [Server thread/INFO]: myonhein issued server command: /tpa irisbbi
+[13:47:13] [Server thread/INFO]: irisbbi issued server command: /tpaccept
+[13:47:26] [Async Chat Thread - #6/INFO]: [Not Secure] <myonhein> thanks
+[14:05:03] [Async Chat Thread - #8/INFO]: [Not Secure] <MGFiree> ngoc oi
+[14:05:07] [Async Chat Thread - #7/INFO]: [Not Secure] <myonhein> noi
+[14:05:12] [Async Chat Thread - #8/INFO]: [Not Secure] <MGFiree> co o nha ko em
+[14:05:19] [Async Chat Thread - #7/INFO]: [Not Secure] <myonhein> dang o gan nha
+[14:05:22] [Async Chat Thread - #8/INFO]: [Not Secure] <myonhein> nha hau
+[14:05:24] [Server thread/INFO]: MGFiree issued server command: /tpa MGFiree
+[14:05:29] [Server thread/INFO]: MGFiree issued server command: /tpa myonhein
+[14:05:38] [Server thread/INFO]: myonhein issued server command: /tpaccept
+[14:07:08] [Server thread/INFO]: MGFiree issued server command: /home
+[14:07:53] [Server thread/INFO]: MGFiree issued server command: /home
+[14:09:26] [Server thread/INFO]: MGFiree issued server command: /home
+[14:16:10] [Server thread/INFO]: myonhein was slain by Vindicator
+[14:16:16] [Server thread/INFO]: myonhein issued server command: /back
+[14:16:31] [Server thread/INFO]: myonhein was slain by Vindicator
+[14:16:33] [Server thread/INFO]: myonhein issued server command: /back\
+[14:16:38] [Server thread/INFO]: myonhein issued server command: /back
+[14:18:44] [Async Chat Thread - #9/INFO]: [Not Secure] <myonhein> e k co giuongg
+[14:18:48] [User Authenticator #6/INFO]: UUID of player phanminhhau2008 is f4ec0fe6-d16b-348d-8945-5a16532ddf74
+[14:18:51] [Server thread/INFO]: phanminhhau2008 joined the game
+[14:18:51] [Server thread/INFO]: phanminhhau2008[/127.46.235.57:56293] logged in with entity id 28958 at ([world]-3000.1904474019784, 66.25521960176278, 4722.105174981567)
+[14:19:43] [Server thread/INFO]: myonhein was slain by Vindicator
+[14:19:47] [Server thread/INFO]: myonhein issued server command: /back
+[14:20:14] [Server thread/INFO]: myonhein was slain by Vindicator
+[14:20:17] [Server thread/INFO]: myonhein issued server command: /back
+[14:21:29] [Server thread/INFO]: MGFiree issued server command: /tpa phanminhhau2008
+[14:21:30] [Server thread/INFO]: phanminhhau2008 issued server command: /tpaccept
+[14:21:33] [Async Chat Thread - #11/INFO]: [Not Secure] <myonhein> co o nha k hau
+[14:21:57] [Async Chat Thread - #10/INFO]: [Not Secure] <phanminhhau2008> co:)
+[14:22:04] [Server thread/INFO]: myonhein issued server command: /tpa phanminhhau2008
+[14:22:07] [Server thread/INFO]: phanminhhau2008 issued server command: /tpaccept
+[14:22:42] [Server thread/INFO]: myonhein issued server command: /tpa phanminhhau2008
+[14:22:45] [Server thread/INFO]: phanminhhau2008 issued server command: /tpaccept
+[14:26:49] [Server thread/INFO]: MGFiree issued server command: /home
+[14:27:13] [Server thread/WARN]: MGFiree moved too quickly! -6.804587884662993,5.565193548535973,-6.26886245441149
+[14:27:29] [Async Chat Thread - #13/INFO]: [Not Secure] <phanminhhau2008> nhà m đấy:)))
+[14:27:32] [Async Chat Thread - #12/INFO]: [Not Secure] <myonhein> cc
+[14:27:51] [Async Chat Thread - #12/INFO]: [Not Secure] <phanminhhau2008> dmm
+[14:27:58] [Async Chat Thread - #13/INFO]: [Not Secure] <myonhein> mih k co y...
+[14:28:06] [Async Chat Thread - #12/INFO]: [Not Secure] <phanminhhau2008> co cl t asdkjgfka
+[14:28:15] [Async Chat Thread - #13/INFO]: [Not Secure] <myonhein> t lag ma..
+[14:28:25] [Async Chat Thread - #12/INFO]: [Not Secure] <phanminhhau2008> ok:)
+[14:28:57] [Async Chat Thread - #13/INFO]: [Not Secure] <myonhein> =))))))))))))
+[14:32:39] [Server thread/INFO]: MGFiree issued server command: /tpa myonhein
+[14:32:46] [Server thread/INFO]: myonhein issued server command: /tpaccept
+[14:33:53] [Async Chat Thread - #15/INFO]: [Not Secure] <myonhein> dm hong giap
+[14:34:05] [Async Chat Thread - #14/INFO]: [Not Secure] <phanminhhau2008> cx biet ak:))
+[14:34:35] [Async Chat Thread - #14/INFO]: [Not Secure] <MGFiree> nhìn lag đánh nhau trông buôn cười vãi
+[14:34:42] [Async Chat Thread - #14/INFO]: [Not Secure] <phanminhhau2008> nhu cc zai
+[14:34:47] [Async Chat Thread - #14/INFO]: [Not Secure] <myonhein> thang da den cam mom
+[14:35:09] [Async Chat Thread - #16/INFO]: [Not Secure] <MGFiree> ai da đen
+[14:35:17] [Async Chat Thread - #14/INFO]: [Not Secure] <myonhein> =)))))
+[14:35:18] [Async Chat Thread - #14/INFO]: [Not Secure] <myonhein> e
+[14:35:51] [Server thread/INFO]: MGFiree issued server command: /home
+[14:36:06] [Server thread/INFO]: phanminhhau2008 issued server command: /tpa MGFiree
+[14:36:15] [Server thread/INFO]: MGFiree issued server command: /tpac
+[14:36:19] [Server thread/INFO]: MGFiree issued server command: /tpaccept
+[14:36:26] [Server thread/INFO]: irisbbi issued server command: /home
+[14:37:43] [Server thread/INFO]: irisbbi issued server command: /home
+[14:41:03] [Server thread/INFO]: phanminhhau2008 issued server command: /tpa MGFiree
+[14:41:07] [Server thread/INFO]: MGFiree issued server command: /tpaccept
+[14:44:04] [Server thread/INFO]: irisbbi has made the advancement [Local Brewery]
+[14:45:17] [Server thread/INFO]: phanminhhau2008 lost connection: Disconnected
+[14:45:17] [Server thread/INFO]: phanminhhau2008 left the game
+[14:45:23] [User Authenticator #7/INFO]: UUID of player phanminhhau2008 is f4ec0fe6-d16b-348d-8945-5a16532ddf74
+[14:45:25] [Server thread/INFO]: phanminhhau2008 joined the game
+[14:45:25] [Server thread/INFO]: phanminhhau2008[/127.46.235.57:45159] logged in with entity id 39910 at ([world_the_end]235.4292592867406, 49.0, 0.5158292859298093)
+[14:46:17] [Server thread/INFO]: myonhein issued server command: /tpa phanminhhau2008
+[14:47:35] [Server thread/INFO]: phanminhhau2008 lost connection: Disconnected
+[14:47:35] [Server thread/INFO]: phanminhhau2008 left the game
+[14:47:58] [User Authenticator #8/INFO]: UUID of player phanminhhau2008 is f4ec0fe6-d16b-348d-8945-5a16532ddf74
+[14:47:59] [Server thread/INFO]: phanminhhau2008 joined the game
+[14:47:59] [Server thread/INFO]: phanminhhau2008[/127.46.235.57:56203] logged in with entity id 40586 at ([world_the_end]235.48750122428157, 49.0, 0.5181225279866079)
+[14:48:53] [Server thread/INFO]: MGFiree issued server command: /tpa phanminhhau2008
+[14:48:57] [Server thread/INFO]: phanminhhau2008 issued server command: /tpaccept
+[14:49:46] [Server thread/INFO]: phanminhhau2008 issued server command: /tpa myonhein
+[14:49:52] [Server thread/INFO]: myonhein issued server command: /tpaccept
+[14:50:16] [Async Chat Thread - #18/INFO]: [Not Secure] <myonhein> ạ đi
+[14:50:22] [Async Chat Thread - #17/INFO]: [Not Secure] <phanminhhau2008> con c
+[14:51:01] [Server thread/INFO]: phanminhhau2008 issued server command: /tpa MGFiree
+[14:51:05] [Server thread/INFO]: MGFiree issued server command: /tpaccept
+[14:56:31] [Server thread/INFO]: MGFiree issued server command: /tpa phanminhhau2008
+[14:56:37] [Server thread/INFO]: phanminhhau2008 issued server command: /tpaccept
+[14:57:49] [Server thread/INFO]: irisbbi issued server command: /home
+[15:00:13] [Server thread/INFO]: myonhein issued server command: /tpa irisbbi
+[15:00:19] [Server thread/INFO]: irisbbi issued server command: /tpaccept
+[15:01:00] [Server thread/INFO]: MGFiree hit the ground too hard
+[15:01:05] [Server thread/INFO]: MGFiree issued server command: /tpa phanminhhau2008
+[15:01:09] [Server thread/INFO]: phanminhhau2008 issued server command: /tpaccept
+[15:05:57] [Server thread/INFO]: myonhein was blown up by Creeper
+[15:05:58] [Server thread/WARN]: MGFiree moved too quickly! -7.223625306448412,-1.7441916805245121,7.441138696106464
+[15:06:03] [Server thread/INFO]: myonhein issued server command: /back
+[15:06:05] [Server thread/INFO]: MGFiree issued server command: /tpa phanminhhau2008
+[15:06:08] [Server thread/INFO]: phanminhhau2008 issued server command: /tpaccept
+[15:06:50] [Server thread/INFO]: myonhein issued server command: /tpa phanminhhau2008
+[15:06:53] [Server thread/INFO]: phanminhhau2008 issued server command: /tpaccept
+[15:10:34] [Server thread/INFO]: myonhein lost connection: Disconnected
+[15:10:34] [Server thread/INFO]: myonhein left the game
+[15:15:57] [Server thread/INFO]: MGFiree issued server command: /home
+[15:17:18] [Server thread/INFO]: MGFiree issued server command: /home
+[15:17:32] [Server thread/INFO]: phanminhhau2008 issued server command: /tpa MGFiree
+[15:17:37] [Server thread/INFO]: MGFiree issued server command: /tpaccept
+[15:17:47] [Server thread/INFO]: phanminhhau2008 lost connection: Disconnected
+[15:17:47] [Server thread/INFO]: phanminhhau2008 left the game
+[15:19:03] [User Authenticator #9/INFO]: UUID of player phanminhhau2008 is f4ec0fe6-d16b-348d-8945-5a16532ddf74
+[15:19:05] [Server thread/INFO]: phanminhhau2008 joined the game
+[15:19:05] [Server thread/INFO]: phanminhhau2008[/127.46.235.57:49421] logged in with entity id 53305 at ([world_the_end]120.19425519405554, -34.93518245349476, 1.8351294511377856)
+[15:19:09] [Server thread/INFO]: phanminhhau2008 fell out of the world
+[15:19:47] [Server thread/INFO]: phanminhhau2008 was shot by Skeleton
+[15:21:26] [Server thread/INFO]: MGFiree issued server command: /tpa phanminhhau2008
+[15:21:29] [Server thread/INFO]: phanminhhau2008 issued server command: /tpaccept
+[15:22:24] [Server thread/INFO]: phanminhhau2008 fell from a high place
+[15:24:57] [Server thread/INFO]: MGFiree issued server command: /home
+[15:25:15] [Server thread/INFO]: MGFiree issued server command: /tpa phanminhhau2008
+[15:25:25] [Server thread/INFO]: phanminhhau2008 issued server command: /tpaccept
+[15:26:26] [Server thread/INFO]: phanminhhau2008 was slain by Spider
+[15:28:55] [Server thread/INFO]: MGFiree issued server command: /home
+[15:30:33] [Server thread/INFO]: MGFiree lost connection: Disconnected
+[15:30:33] [Server thread/INFO]: MGFiree left the game
+[15:30:40] [User Authenticator #10/INFO]: UUID of player MGFiree is 1fac2248-0167-3240-a01d-e59180122beb
+[15:30:40] [Server thread/INFO]: MGFiree joined the game
+[15:30:40] [Server thread/INFO]: MGFiree[/127.152.215.75:54721] logged in with entity id 60693 at ([world_the_end]235.49282354671018, 48.0, 0.39168130030812803)
+[15:31:23] [Server thread/INFO]: phanminhhau2008 issued server command: /tpa MGFiree
+[15:31:27] [Server thread/INFO]: MGFiree issued server command: /tpa phanminhhau2008
+[15:31:31] [Server thread/INFO]: MGFiree issued server command: /tpaccept
+[15:33:24] [Server thread/INFO]: MGFiree lost connection: Disconnected
+[15:33:24] [Server thread/INFO]: MGFiree left the game
+[15:33:35] [User Authenticator #11/INFO]: UUID of player MGFiree is 1fac2248-0167-3240-a01d-e59180122beb
+[15:33:36] [Server thread/INFO]: MGFiree joined the game
+[15:33:36] [Server thread/INFO]: MGFiree[/127.152.215.75:50947] logged in with entity id 61267 at ([world_the_end]235.24899762939788, 48.0, 0.5049247339100174)
+[15:33:52] [Server thread/INFO]: MGFiree lost connection: Disconnected
+[15:33:52] [Server thread/INFO]: MGFiree left the game
+[15:34:43] [User Authenticator #12/INFO]: UUID of player MGFiree is 1fac2248-0167-3240-a01d-e59180122beb
+[15:34:43] [Server thread/INFO]: MGFiree joined the game
+[15:34:43] [Server thread/INFO]: MGFiree[/127.152.215.75:38809] logged in with entity id 61994 at ([world_the_end]235.55775120978186, 48.0, 0.6039958143443569)
+[15:36:02] [Server thread/INFO]: phanminhhau2008 lost connection: Disconnected
+[15:36:02] [Server thread/INFO]: phanminhhau2008 left the game
+[15:36:32] [User Authenticator #13/INFO]: UUID of player phanminhhau2008 is f4ec0fe6-d16b-348d-8945-5a16532ddf74
+[15:36:34] [Server thread/INFO]: phanminhhau2008 joined the game
+[15:36:34] [Server thread/INFO]: phanminhhau2008[/127.46.235.57:59503] logged in with entity id 62652 at ([world_the_end]235.4381530682857, 48.0, 0.6306969801202065)
+[15:38:52] [Server thread/INFO]: phanminhhau2008 lost connection: Disconnected
+[15:38:52] [Server thread/INFO]: phanminhhau2008 left the game
+[15:39:03] [User Authenticator #14/INFO]: UUID of player MGDust is af20aaee-d187-348b-a576-a99ab6674b99
+[15:39:05] [Server thread/INFO]: MGDust joined the game
+[15:39:05] [Server thread/INFO]: MGDust[/127.108.190.58:41521] logged in with entity id 63104 at ([world]-3066.461824326378, 67.0, 4739.8275241734)
+[15:39:20] [User Authenticator #15/INFO]: UUID of player phanminhhau2008 is f4ec0fe6-d16b-348d-8945-5a16532ddf74
+[15:39:22] [Server thread/INFO]: phanminhhau2008 joined the game
+[15:39:22] [Server thread/INFO]: phanminhhau2008[/127.46.235.57:38791] logged in with entity id 63484 at ([world_the_end]235.88450424169244, 48.0, 0.31208222940362007)
+[15:39:52] [Server thread/INFO]: MGDust issued server command: /gamemode creative
+[15:39:52] [Server thread/INFO]: [MGDust: Set own game mode to Creative Mode]
+[15:39:54] [Server thread/INFO]: MGDust issued server command: /gamemode spectator
+[15:39:54] [Server thread/INFO]: [MGDust: Set own game mode to Spectator Mode]
+[15:39:57] [Server thread/INFO]: MGDust issued server command: /tp MGFiree
+[15:39:57] [Server thread/INFO]: MGDust has made the advancement [The End?]
+[15:39:57] [Server thread/INFO]: [MGDust: Teleported MGDust to MGFiree]
+[15:40:18] [Server thread/INFO]: MGDust issued server command: /difficulty hard
+[15:40:18] [Server thread/INFO]: [MGDust: The difficulty has been set to Hard]
